@@ -2,7 +2,7 @@
 * A simple multi-page Airbnb clone that uses a server-side Javascript to display the information from queries to web pages via SQL queries.
 
 # Based on this Entity Relationship Diagram...
-!["ERD"]()
+!["ERD"](https://github.com/NicoleLaww/LightBnB/blob/main/docs/ERD.jpeg)
 
 # Dependencies
 - bcryptjs
